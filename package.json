@@ -1,0 +1,29 @@
+{
+  "name": "poolproapp",
+  "version": "1.0.0",
+  "description": "dependencies for Pool Pro project",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "poolproapp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jannaee/red-adventure.git"
+  },
+  "keywords": [
+    "pool",
+    "pro",
+    "red",
+    "venture"
+  ],
+  "author": "Jannaee Sick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jannaee/red-adventure/issues"
+  },
+  "homepage": "https://github.com/jannaee/red-adventure#readme"
+}
