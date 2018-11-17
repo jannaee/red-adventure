@@ -1,12 +1,12 @@
-# Red Adventure Project Requirements:
+# Red Adventure Project Requirements
 
 ### The Challenge
-Convert series of PSD files and supporting assets into a fully functional web page: 
+Convert series of PSD files and supporting assets into a fully functional web page
 - [ ] Using HTML, CSS, and JavaScript
 - [ ] Renders perfectly in all major browsers
 - [ ] Interactive and creative as possible
 
-### The principles and concepts to focus on:
+### The Principles and Concepts
 - [ ] Web Standards
 - [ ] Readability
 - [ ] Performance
@@ -20,8 +20,8 @@ Convert series of PSD files and supporting assets into a fully functional web pa
   * The page should be responsive for Mobile, Tablet, and Desktop.
   * Dealers section should be built using the provided JSON file.
 
-### On Completion checklist:
-Send your finished project via a public link to a Google Drive folder (or another similar service) that contains your finalized assets. The finalized project should follow the following specs:
+### On Completion Checklist
+Send finished project via a public link to a Google Drive folder (or another similar service) that contains your finalized assets. The finalized project should follow the following specs:
 - [ ] Excludes the node_modules directory (or other similar package manager directories).
 - [ ] Should have a distribution folder that can be viewed directly in a browser.
 - [ ] Should not require a build process to view the site.
