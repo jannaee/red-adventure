@@ -1,5 +1,4 @@
-# Red Adventure
-## Pool Pro Requirements:
+# Red Adventure Project Requirements:
 
 ### The Challenge
 Convert series of PSD files and supporting assets into a fully functional web page: 
