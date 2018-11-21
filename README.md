@@ -28,7 +28,6 @@ Send finished project via a public link to a Google Drive folder (or another sim
 
 -----------
 My Process
-Install dev dependencies
- - gulp
- - sass (used this tutorial http://ryanchristiani.com/getting-started-with-gulp-and-sass/)
- - 
+* Install dev dependencies
+* gulp
+* sass (used this tutorial http://ryanchristiani.com/getting-started-with-gulp-and-sass/)
