@@ -31,3 +31,9 @@ Send finished project via a public link to a Google Drive folder (or another sim
 * Install dev dependencies
 * gulp
 * sass (used this tutorial http://ryanchristiani.com/getting-started-with-gulp-and-sass/)
+* implement vue framework to make the most of built in features for cross browser compatibility
+
+  - installed dev tools for development debugging, but the version built by electron https://github.com/vuejs/vue-devtools/blob/master/shells/electron/README.md
+* add a way to access restful service with vue. in this case a static json file
+
+* added normalize.css package for better cross browser compatibility

@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "dependencies for Pool Pro project",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-sass": "^4.0.2",
