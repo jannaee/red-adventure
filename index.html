@@ -6,7 +6,6 @@
     <title>Pool Pros</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="dist/js/main.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     <link rel="stylesheet" type="text/css" media="screen" href="dist/main.css" />
 
 </head>
@@ -37,31 +36,36 @@
     </header>
     <main>
         <!-- Dealer filters -->
-        <section>
+        <section id="filter">
             <ul>
                 <li></li>
                 <li></li>
                 <li></li>
             </ul>
+            <input type="checkbox" />
         </section>
 
         <!-- Dealer Cards -->
-        <section>
+        <section id="dealers">
+            
             <!-- Card 1 -->
-            <div>
-                <h2>{{ dealerNames }}</h2>
-                <p>{{ dealerNumbers }}</p>
+            <section class="dealer-cards">
+                <h2></h2>
+                <p></p>
                 <a href="#">CTA One</a>
 
-            </div>
+            </section>
+            
             <!-- Card 2 -->
-            <div>
+            <section class="dealer-cards">
 
-            </div>
+            </section>
+
+
             <!-- Card 3 -->
-            <div>
+            <section class="dealer-cards">
 
-            </div>
+            </section>
         </section>
 
     </main>
@@ -71,7 +75,7 @@
     </footer>
 
     </div>
-    <script src="rvapp.js"></script>
+    
 
 </body>
 

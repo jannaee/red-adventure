@@ -27,7 +27,7 @@ Send finished project via a public link to a Google Drive folder (or another sim
 - [ ] Should not require a build process to view the site.
 
 -----------
-#### My Process
+#### TO DO List:
 * Install dev dependencies
 * gulp
 * sass (used this tutorial http://ryanchristiani.com/getting-started-with-gulp-and-sass/)
@@ -37,3 +37,5 @@ Send finished project via a public link to a Google Drive folder (or another sim
 * add a way to access restful service with vue. in this case a static json file
 
 * added normalize.css package for better cross browser compatibility
+* make sure to run html and css through validators: https://validator.w3.org/
+* and run through http://crossbrowsertesting.com/ or browserstack

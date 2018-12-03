@@ -35,12 +35,21 @@ body {
     background-color: #ffffff;
 }
 
-nav a {
+nav {
     color: #083d8c;
+    height: 30vh;
 }
+
 footer {
     height: 5vh;
     padding: 0;
     margin: 0;
     background-color: #083d8c;
+}
+
+#dealers {
+  background: gray;
+  height: 20vh;
+  display: flex;
+  flex-flow: row wrap;
 }
