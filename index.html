@@ -6,52 +6,65 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,700,800" rel="stylesheet">
-    <title>Pool Pro App</title>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <title>Pool Pros - Dealers Distributors and Commercial Services</title>
 </head>
 
 <body>
-    <!-- Main Navigation -->
+
     <header>
-        <nav>
-            <!-- Dealer/Comm Services Nav -->
-            <section>
-                <a href=""></a>
-                <a href=""></a>
-            </section>
+        <!-- Dealer/Comm Services Nav -->
+        <section id="dealer-comm-nav">
+            <a href=""></a>
+            <a href=""></a>
+        </section>
 
-            <section>
-                <a href=""></a>
-                <a href=""></a>
-                <a href=""></a>
-                <a href=""></a>
-                <button></button>
-            </section>
-        </nav>
+        <!-- Main Navigation -->
+        <section id="main-nav">
+            <nav>
+                <a href="">Pools & Spas</a>
+                <a href="">Supplies</a>
+                <a href="">Resources</a>
+                <a href="">Services</a>
+                <button>Find a Pool Pro</button>
+                <button>FIND A PRO</button>
+            </nav>
+        </section>
     </header>
+
     <!-- Filter Drop Down -->
-    <section>
-
+    <section id="filter-dropdown">
+        <h4 id="filter-found-dealers">XX dealers in XXXXX</h4>
+        <button onclick="myFunction()">Filter Results <span class="dropbtn">V</span></button>
+        <div id="myDropdown" class="dropdown-content">
+            <input type="radio" name="service" value="service">Services <br>
+            <input type="radio" name="installation" value="installation">Installation <br>
+            <input type="radio" name="residential" value="residential">Residential <br>
+            <input type="radio" name="commercial" value="commercial">Commercial <span title="Commercial Service Tooltip">[?]</span><br>
+        </div>
     </section>
 
-    <!-- Dealer Cards -->
-    <section>
-        <article>
+    
+    <main id="dealer-cards">
+        <!-- Dealer Cards -->
+        <section>
+            <article>
 
-        </article>
-    </section>
+            </article>
+        </section>
 
-    <section>
-        <article>
+        <section>
+            <article>
 
-        </article>
-    </section>
+            </article>
+        </section>
 
-    <section>
-        <article>
+        <section>
+            <article>
 
-        </article>
-    </section>
-
+            </article>
+        </section>
+    </main>
     <footer>
         <!-- Logo -->
         <a href=""><img src="" alt="Pool Pros Logo"></a>
@@ -62,7 +75,7 @@
             <a href=""></a>
             <a href=""></a>
         </section>
-        
+
         <!-- Dealer/Comm Services -->
         <section>
 
@@ -76,6 +89,11 @@
 
         </section>
     </footer>
+
+    <!-- Modal Windows -->
+    <div class="modal">
+        <!-- Coming soon, modal designs influences fron Chris Coyier-->
+    </div>
 </body>
 
 </html>
